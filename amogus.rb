@@ -1,4 +1,5 @@
-    # Run this code with sonic-pi server.
+    # Run this code with sonic-pi server. (VS-Code Extension is recommended.)
+
 
 
 
